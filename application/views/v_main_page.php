@@ -77,7 +77,7 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-md-12">
                     <div class="intro-message">
                         <img class="img-rounded" style="margin-top: -10%" src="<?=base_url(); ?>assets/img/footer.png" />
                         <h1>Tuffah Informatics</h1>
@@ -109,7 +109,7 @@
     <div class="content-section-a">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-md-12">
                     <h2 class="section-heading">Background</h2>
                     <p class="lead">
                         Tuffah Informatics, was
@@ -130,7 +130,8 @@ the ICT industry such as Software
 Development, Mobile Application,
 Artificial Intelligence,
 and ICT Consultation
-and Training.
+and Training. Below is our organization chart:-
+                    <center><img width="50%" src="<?=base_url(); ?>assets/uploads/organizationchart1.jpg" /></center>
                     </p>
                 </div>
             </div>
@@ -145,7 +146,7 @@ and Training.
     <div class="content-section-b">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-md-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Software and Web Development</h2>
@@ -158,8 +159,8 @@ department are;
 <strong>Desktop Application, Web Application, Website Design, E-Commerce Websites, and Content Management System.</strong>
                     </p>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="<?=base_url(); ?>assets/img/ipad.png" alt="">
+                <div class="col-md-5 col-md-offset-2 col-sm-6">
+                    <img class="img-responsive" src="<?=base_url(); ?>assets/uploads/software1.png" alt="">
                 </div>
             </div>
         </div>
@@ -170,7 +171,7 @@ department are;
     <div class="content-section-b">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-md-5 col-md-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Mobile Apps Development</h2>
@@ -182,8 +183,8 @@ under mobile application development department are;
 <strong>Android Application, iOS Application, Windows Phone Application, Blackberry Application, and Mobile UI Design.</strong>
                     </p>
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="<?=base_url(); ?>assets/img/ipad.png" alt="">
+                <div class="col-md-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/mobiles1.png" alt="">
                 </div>
             </div>
         </div>
@@ -194,7 +195,7 @@ under mobile application development department are;
     <div class="content-section-b">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-md-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Artificial Intelligence and Advanced Computer System</h2>
@@ -208,8 +209,8 @@ systems. All services that we provide under artificial intelligence development
 department are; <strong>Expert System, Data Mining, Decision Support System, Image Processing, and Machine Learning.</strong>
                     </p>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="<?=base_url(); ?>assets/img/ipad.png" alt="">
+                <div class="col-md-5 col-md-offset-2 col-sm-6">
+                    <img class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/ai3.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -220,7 +221,7 @@ department are; <strong>Expert System, Data Mining, Decision Support System, Ima
     <div class="content-section-b">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-md-5 col-md-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">ICT Consultation and Training</h2>
@@ -231,8 +232,8 @@ ICT. All services that we provide under ICT consultation and training
 department are divided into three levels of training; <strong>Beginner Level, Intermediate Level, and Expert Level.</strong>
                     </p>
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="<?=base_url(); ?>assets/img/ipad.png" alt="">
+                <div class="col-md-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/con2.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -244,12 +245,22 @@ department are divided into three levels of training; <strong>Beginner Level, In
     <div class="content-section-a">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12">
+                <div class="col-md-12 col-sm-12 col-md-12">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Product and Clients</h2>
                     <p class="lead">
-                        gambar gambar ...
+                    <center>
+                        <img width="80%" class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/project1.png" />
+                        <br />
+                        <img width="80%" class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/project2.png" />
+                        <br />
+                        <img width="80%" class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/project3.png" />
+                        <br />
+                        <img width="80%" class="img-responsive img-rounded" src="<?=base_url(); ?>assets/uploads/project4.png" />
+                        <br />
+                        <h2>... and much more.</h2>
+                    </center>
                     </p>
                 </div>
             </div>
@@ -262,10 +273,17 @@ department are divided into three levels of training; <strong>Beginner Level, In
     <div class="banner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <h2>Keep connect to us:</h2>
+                <div class="col-md-4">
+                    <h2>Keep connect:</h2>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-md-4">
+                    Umar Mukhtar bin Hambaran<br />
+                    Managing Director<br />
+                    Tuffah Informatics<br />
+                    umar@tuffah.info / kidzeclipes@gmail.com<br />
+                    019-9737579
+                </div>
+                <div class="col-md-4">
                     <ul class="list-inline banner-social-buttons">
                         <li>
                                 <a href="https://twitter.com/tuffahinfo" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
@@ -288,7 +306,7 @@ department are divided into three levels of training; <strong>Beginner Level, In
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-md-12">
                     <ul class="list-inline">
                         <li>
                             <a href="#">Home</a>
